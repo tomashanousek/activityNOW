@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>My table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_63516_beactiveno_my_table</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 18:27:47</sys_created_on>
+        <sys_id>6ed048c6db732010b516b7e8f49619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beactiveno My Table</sys_name>
+        <sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope>
+        <sys_update_name>sys_db_object_6ed048c6db732010b516b7e8f49619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 18:27:47</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="beActiveNow">817040c6db732010b516b7e8f4961902</application>
+        <file_path/>
+        <instance_id>14b8db21db9bdf403353f22ebf961900</instance_id>
+        <instance_name>dev64849</instance_name>
+        <name>sys_db_object_6ed048c6db732010b516b7e8f49619cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>My table</label><live_feed_enabled>false</live_feed_enabled><name>x_63516_beactiveno_my_table</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-29 18:27:47</sys_created_on><sys_id>6ed048c6db732010b516b7e8f49619cb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Beactiveno My Table</sys_name><sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package><sys_policy/><sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope><sys_update_name>sys_db_object_6ed048c6db732010b516b7e8f49619cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-29 18:27:47</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-1349883842</payload_hash>
+        <record_name>My table</record_name>
+        <reverted_from/>
+        <source>457040c6db732010b516b7e8f4961904</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 18:27:47</sys_created_on>
+        <sys_id>ead048c6db732010b516b7e8f49619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1791ee30f750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 18:27:47</sys_updated_on>
+        <type>Table</type>
+        <update_guid>66d048c6e1732010e4665af25243ece6</update_guid>
+        <update_guid_history>66d048c6e1732010e4665af25243ece6:-1349883842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 19:59:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>15a549393bfc4ce898fed07db94305c9</sys_id>
+        <sys_metadata>6ed048c6db732010b516b7e8f49619cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beactiveno My Table</sys_name>
+        <sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope>
+        <sys_scope_delete display_value="">1b4a74fe99e9492d9e3c04eb73939889</sys_scope_delete>
+        <sys_update_name>sys_db_object_6ed048c6db732010b516b7e8f49619cb</sys_update_name>
+        <sys_update_version display_value="sys_db_object_6ed048c6db732010b516b7e8f49619cb">ead048c6db732010b516b7e8f49619e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 19:59:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

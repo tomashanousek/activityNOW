@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 18:27:50</sys_created_on>
+        <sys_id>57d088c6db732010b516b7e8f4961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_63516_beactiveno_my_table.x_63516_beactiveno.admin</sys_name>
+        <sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope>
+        <sys_security_acl display_value="x_63516_beactiveno_my_table">dbd088c6db732010b516b7e8f4961930</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_57d088c6db732010b516b7e8f4961933</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 18:27:50</sys_updated_on>
+        <sys_user_role display_value="x_63516_beactiveno.admin" name="x_63516_beactiveno.admin">849040c6db732010b516b7e8f4961926</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="beActiveNow">817040c6db732010b516b7e8f4961902</application>
+        <file_path/>
+        <instance_id>14b8db21db9bdf403353f22ebf961900</instance_id>
+        <instance_name>dev64849</instance_name>
+        <name>sys_security_acl_role_57d088c6db732010b516b7e8f4961933</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-29 18:27:50</sys_created_on><sys_id>57d088c6db732010b516b7e8f4961933</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_63516_beactiveno_my_table.x_63516_beactiveno.admin</sys_name><sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package><sys_policy/><sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope><sys_security_acl display_value="x_63516_beactiveno_my_table">dbd088c6db732010b516b7e8f4961930</sys_security_acl><sys_update_name>sys_security_acl_role_57d088c6db732010b516b7e8f4961933</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-29 18:27:50</sys_updated_on><sys_user_role display_value="x_63516_beactiveno.admin" name="x_63516_beactiveno.admin">849040c6db732010b516b7e8f4961926</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1748705842</payload_hash>
+        <record_name>x_63516_beactiveno_my_table.x_63516_beactiveno.admin</record_name>
+        <reverted_from/>
+        <source>457040c6db732010b516b7e8f4961904</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 18:27:50</sys_created_on>
+        <sys_id>9fd088c6db732010b516b7e8f4961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1791ee31b000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 18:27:50</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d7d088c67c732010525139c7c7634035</update_guid>
+        <update_guid_history>d7d088c67c732010525139c7c7634035:-1748705842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_63516_beactiveno_my_table.x_63516_beactiveno.admin">fcd59c46dbb32010b516b7e8f49619f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 19:59:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>62d60cd089554b1bb308edd2ba3af8f1</sys_id>
+        <sys_metadata>57d088c6db732010b516b7e8f4961933</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_63516_beactiveno_my_table.x_63516_beactiveno.admin</sys_name>
+        <sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package>
+        <sys_parent display_value="">dbd088c6db732010b516b7e8f4961930</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope>
+        <sys_scope_delete display_value="">1b4a74fe99e9492d9e3c04eb73939889</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_57d088c6db732010b516b7e8f4961933</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_57d088c6db732010b516b7e8f4961933">9fd088c6db732010b516b7e8f4961935</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 19:59:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My table" max_length="40" name="x_63516_beactiveno_my_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ABCD" max_length="40" name="abcd" type="string"/>
+    </element>
+</database>

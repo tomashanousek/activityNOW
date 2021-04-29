@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_63516_beactiveno.admin" name="x_63516_beactiveno.admin">849040c6db732010b516b7e8f4961926</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-29 18:26:32</sys_created_on>
+        <sys_id>d09040c6db732010b516b7e8f496192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>849040c6db732010b516b7e8f4961926</sys_name>
+        <sys_package display_value="beActiveNow" source="x_63516_beactiveno">817040c6db732010b516b7e8f4961902</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="beActiveNow">817040c6db732010b516b7e8f4961902</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d09040c6db732010b516b7e8f496192b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-29 18:26:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
